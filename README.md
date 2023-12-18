@@ -3,19 +3,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 💼 &nbsp; Looking for Job front-end web developer.
 - 🔭 &nbsp; I’m currently learning React Js
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied as B.E Mechanical Engineering
-- 💼 &nbsp; Looking for Job front-end web developer.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | React JS | Tailwind 
 - 💻 &nbsp; Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | React JS 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Visual Studio code | Git | Eclipse  
 
 <br>
 
