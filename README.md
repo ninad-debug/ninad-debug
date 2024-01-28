@@ -3,8 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Looking for Job front-end web developer.
-- 🔭 &nbsp; I’m currently learning React Js
+- 💼 &nbsp; Working as React Js developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied as B.E Mechanical Engineering
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
